@@ -2,12 +2,6 @@
  *  chat.h - Header file for network communications/threads exercise
  *
  *  part of a chat system
- *  Advanced Programming course
- *  Tel Hai College
- *
- *  @Date: 	27 May 2017
- *  @Author:   	Ron Sivan
- *  @email:	ronny.sivan@gmail.com
  *
  *
  * This file is part of a peer-to-peer system which allows participating
